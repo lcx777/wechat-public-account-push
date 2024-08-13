@@ -13,7 +13,7 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '10e6f346bdee3d101f985abe1e9f7329',
 
-  PROVINCE: '贵州',
+  PROVINCE: '贵州省黔西南布依族苗族自治州',
   CITY: '望谟',
 
   USERS: [
