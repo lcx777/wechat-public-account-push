@@ -47,7 +47,7 @@ const USER_CONFIG = {
       useTemplateId: 'o1z7nUAImW9BhL0xyyVU72kmCBiMt9VsYEVtIq3PmPM',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '02-23',
-      openUrl: ''，
+      openUrl: 'https://baidu.com/'，
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
