@@ -69,12 +69,11 @@ const USER_CONFIG = {
         { keyword: 'marry_day', date: '2022-09-09' },
       ],
     },
-  ],
-  {
+    {
       // 想要发送的人的名字
       name: '瓜兮兮',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oboOi6VzVQtYV9yhJKNd5cLAToZs',
+      id: 'oboOi6YVE7fL2bERhOaqSw-zBEwM',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'DyzYDg1Gz5mIBJwksVZ5TjlsmAjBU7yxQgbpb2uNCpk',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
